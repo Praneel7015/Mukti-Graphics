@@ -2,12 +2,12 @@
 
 Repository of the club graphics, logos, posters, stickers, wallpapers and more.
 
-- `logos/` : [logos](./logos/)
-	- `logos/Drushti` : [logos/Drushti](./logos/Drushti/)
-	- `logos/FOSS_United` : [logos/FOSS_United](./logos/FOSS_United/)
-	- `logos/MSRIT` : [logos/MSRIT](./logos/MSRIT/)
-	- `logos/Mukti` : [logos/Mukti](./logos/Mukti/)
-	- `logos/Other` : [logos/Other](./logos/Other/)
+- `logos/` : [Logos](./Logos/)
+	- `logos/Drushti` : [Logos/Drushti](./Logos/Drushti/)
+	- `logos/FOSS_United` : [Logos/FOSS_United](./Logos/FOSS_United/)
+	- `logos/MSRIT` : [Logos/MSRIT](./Logos/MSRIT/)
+	- `logos/Mukti` : [Logos/Mukti](./Logos/Mukti/)
+	- `logos/Other` : [Logos/Other](./Logos/Other/)
 
 - `Old_posters` : [Old_posters](./Old_posters/)
 - `Sticker_pages` : [Sticker_pages](./Sticker_pages/)
