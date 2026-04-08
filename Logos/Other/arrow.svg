@@ -1,0 +1,22 @@
+<svg width="320" height="100" viewBox="0 0 320 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font-family: "Comic Sans MS", "Brush Script MT", cursive;
+      font-size: 28px;
+      fill: #ece8bd;
+      font-weight: bold;
+      letter-spacing: 1px;
+    }
+    .arrow {
+      stroke: #ece8bd;
+      stroke-width: 3;
+      fill: none;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+    }
+  </style>
+
+  <!-- Curved Arrow -->
+  <path d="M190,20 C230,20 270,20 300,50" class="arrow" />
+  <polyline points="295,30 300,50 280,55" class="arrow" />
+</svg>
